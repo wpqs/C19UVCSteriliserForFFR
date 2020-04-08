@@ -1,0 +1,13 @@
+C19UVCForFFR-UCL\Components\UV-C-Lamps\CF
+=========================================
+Details of CF UV-C Lamps and associated components
+
+OSRAM
+-----
+
+* PURITEC HNS Brochure (EN) (1) - UVC technical background, applications, products and list of ballasts
+
+* ZMP_60805_HNS_S_9_W_G23.pdf - HNS S 9 W G23 - lamp
+* ZMP_4021031_HNS_55_W_G13.pdf - PURITEC HNS 55W G13 - lamp
+* ZMP_1087267_QTP-OPTIMAL_1X54_58.pdf - QTP-OPTIMAL 1x54-58 - ballast for PURITEC HNS 55W G13 
+
