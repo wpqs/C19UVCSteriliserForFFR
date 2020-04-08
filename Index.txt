@@ -1,0 +1,7 @@
+Root content - C19UVCForFFR-UCL
+===============================
+Folders:
+ * CabinetDesign - drawings for cabinets
+ * Components - details about components and sources
+ * TestingProtocol - documents about the methods for testing your cabinet
+ * TestingResults - results of testing
